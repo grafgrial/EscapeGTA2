@@ -1,4 +1,2 @@
-# EscapeGTA2
-gjhsgdsladashk
-asdasdasd
-asd
+# EscapeGTA
+ Проект тестовый для реализ механик
